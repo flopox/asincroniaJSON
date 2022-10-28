@@ -1,0 +1,37 @@
+[
+    {
+        "nombre":"Pochoclo grande",
+        "precio":", $1000",
+        "detalle":"dulce, en caja"
+    },
+    {
+        "nombre":"Pochoclo medio",
+        "precio":", $800",
+        "detalle":"dulce, en caja"
+    },
+    {
+        "nombre":"Pochoclo chico",
+        "precio":", $600",
+        "detalle":"dulce, en bolsa"
+    },
+    {
+        "nombre":"Gaseosa grande",
+        "precio":", $500",
+        "detalle":" botella 1000ml"
+    },
+    {
+        "nombre":"Gaseosa chica",
+        "precio":", $400",
+        "detalle":" botella de 500ml"
+    },
+    {
+        "nombre":"Agua",
+        "precio":", $300",
+        "detalle":"botella 500ml"
+    },
+    {
+        "nombre":"Chocolate",
+        "precio":", $100",
+        "detalle":"semi amargo de 500g"
+    }
+]
